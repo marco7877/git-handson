@@ -1,6 +1,6 @@
 # git-handson
 
-![oh my git]
+![oh my git]https://github.com/marco7877/git-handson/blob/scratch/images/githubing.jpg
 
 ---
 
@@ -14,6 +14,6 @@ Git is a version control manager. SO yes, you can actually use it to track chang
 * final version (god save me)
 * final final final version (I want my degree)
 
-![git thesis]
+![git thesis]https://github.com/marco7877/git-handson/blob/scratch/images/thesisgit.jpg
 
 
