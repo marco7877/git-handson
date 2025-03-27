@@ -24,7 +24,6 @@ Ssssss|  sss|sss|     |    sss|         |         |
 | | |   |   |     |   | | |   |sss|sssss|s|sssss| |
 | | `---"-. | --. | | | | | | `--s`----s|s|s.--s| |
 |         |     |   |   |   |     ssssss|sss|  sssE
-`---------"-----"---"---"---"-----------"---"------
 ```
 
 How cool is it, I know! So we are gonna play the following game :purple_heart: :
