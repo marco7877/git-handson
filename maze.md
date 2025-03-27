@@ -3,7 +3,7 @@
  :penguin:  :penguin:  :penguin:  :penguin:  :penguin:  :penguin:  :penguin: 
 
 Now we are **ready** to test our amazing git abilities. So first things first, here is a maze :runner: :
-
+```
 ------.-----.---.-----.-------.---------.---------.
 S     |     |   |     |       |         |         |
 .-.-- | | | | | | --. | .-- | `-. --. | | | .---. |
@@ -25,6 +25,7 @@ S     |     |   |     |       |         |         |
 | | `---"-. | --. | | | | | | `-- `---- | | .-- | |
 |         |     |   |   |   |           |   |     E
 `---------"-----"---"---"---"-----------"---"------
+```
 
 How cool is it, I know! So we are gonna play the following game :purple_heart: :
 
