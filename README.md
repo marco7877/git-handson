@@ -35,3 +35,13 @@ Check this sources for more in detail information. Remember this is an intro!
 4. [Oh shit, git]: https://ohshitgit.com/
 
 
+# Some git commands
+```
+git status
+git add
+git commit
+git checkout
+git pull
+git push
+...
+```
